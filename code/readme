@@ -1,0 +1,10 @@
+obj_fct.py: contains function classes, including Extended Rosenbrock Function (Fct1)
+            and Extended Powell Singular Function (Fct2)
+
+solvers: contains nonlinear optimization solvers that would be used in this project, and they are:
+         SD (Steepest Decent Solver)
+         FR_CG (Fletcher-Reeves Conjugate Gradient Solver)
+         PR_CG (Polak-Ribiere Conjugate Gradient Solver)
+         BFGS (BFGS Quasi Newton Solver)
+         DFP (DFP Quasi Newton Solver)
+         LM_BFGS (Limited Memory BFGS Quasi Newton Solver)
